@@ -3,7 +3,9 @@ This is a ViteReact demo app which fetch the External API data and display data 
 
 - Step One Clone the Repo with the help of command
   - `git clone https://github.com/VasimNizami/fetch-data-from-api-react-demo.git`
-- Step two install node modules
+- Step two go to path
+  - `cd fetch-data-from-api-react-demo`
+- Step three install node modules
   - `npm i`
 - Now you are ready to run
   - `npm run dev` 
